@@ -1,0 +1,32 @@
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\ApplicationIcon.png
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\Background.png
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\LockablePivotSample.dll
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\LockablePivotSample.pdb
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\App.g.i.cs
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\MainPage.g.i.cs
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.g.resources
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.dll
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.pdb
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\AppManifest.xaml
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\Bin\Debug\LockablePivotSample.xap
+c:\users\bobi\documents\visual studio 2010\Projects\LockablePivotSample\LockablePivotSample\obj\Debug\XapCacheFile.xml
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\ApplicationIcon.png
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\Background.png
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\LockablePivotSample.dll
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\LockablePivotSample.pdb
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\AppManifest.xaml
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\LockablePivotSample.xap
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.csprojResolveAssemblyReference.cache
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\App.g.cs
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\MainPage.g.cs
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.g.resources
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.dll
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\LockablePivotSample.pdb
+C:\Users\kai.chen\Downloads\lockablepivotsample_1_2_3_4_5 (1)\LockablePivotSample\LockablePivotSample\obj\Debug\XapCacheFile.xml

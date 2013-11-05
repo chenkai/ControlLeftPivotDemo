@@ -1,0 +1,38 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="LockablePivotSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+	xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+	xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <controls:Pivot x:Name="pivot">
+
+        <controls:PivotItem x:Name="FirstPivot_PV" Header="Home" >          
+            <TextBlock Text="Welcome to My Drawing App!" Foreground="YellowGreen" FontSize="60" TextWrapping="Wrap"/>
+        </controls:PivotItem>
+
+        <controls:PivotItem x:Name="SecondPivot_PV" Header="Drawing">
+            <StackPanel>
+                <Button Content="Lock Pivot" Click="btnLock_Click"/>
+                <TextBlock Text="Drawing area here:"/>
+                <Canvas x:Name="ContentPanelCanvas" Background="LightGray" Height="300" Width="480" MouseMove="ContentPanelCanvas_MouseMove" MouseLeftButtonDown="ContentPanelCanvas_MouseLeftButtonDown"/>
+                <Button Content="UnLock Pivot" Click="btnUnLock_Click"/>
+            </StackPanel>
+        </controls:PivotItem>
+
+    </controls:Pivot>
+
+
+
+</phone:PhoneApplicationPage>
